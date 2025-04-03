@@ -1,14 +1,14 @@
 # bandit00 → 01: Just list
 
-https://overthewire.org/wargames/bandit/bandit1.html
+[Bandit Level 1 - OverTheWire](https://overthewire.org/wargames/bandit/bandit1.html)
 
 ## Level Description
 
-The task for this level was straightforward: I needed to find the password for the next level. The hint said the password stored in a file named `readme` located in home directory. Once I found it, I had to use the password to log into the next level, bandit1, using SSH like always on port `2220`.
+The task for this level was straightforward: I needed to find the password for the next level. The hint said the password was stored in a file named `readme` located in the home directory. Once I found it, I had to use the password to log into the next level, bandit1, using SSH like always on port `2220`.
 
 ## The Process
 
-After successfully logging into the server as `bandit0` , I found myself staring at the terminal prompt. The first thing that came to mind was: “Let’s check out the home directory.”
+After successfully logging into the server as `bandit0`, I found myself staring at the terminal prompt. The first thing that came to mind was: “Let’s check out the home directory.”
 
 I typed `ls` to list the files in the current directory, and sure enough, there was the `readme` file. So far, so good.
 
@@ -22,18 +22,13 @@ And there it was—the password for the next level! The output even congratulate
 
 ## Password for the Next Level
 
-<aside>
-<img src="/icons/flag-pennant_red.svg" alt="/icons/flag-pennant_red.svg" width="40px" />
-
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
-
-</aside>
+`[REDACTED]`
 
 ## What I Learned
 
-- File listing (`ls`): Always check your surroundings first! The `ls` command is your best friend for seeing what files are available.
-- Reading Files(`cat`): Simple yet powerful, `cat` allows you to quickly view the contents of a file.
-- Logging into Next Levels: Every password is used to log into the next level using SSH, reinforcing how to string together progress in a sequence.
+- **File listing (`ls`)**: Always check your surroundings first! The `ls` command is your best friend for seeing what files are available.
+- **Reading Files (`cat`)**: Simple yet powerful, `cat` allows you to quickly view the contents of a file.
+- **Logging into Next Levels**: Every password is used to log into the next level using SSH, reinforcing how to string together progress in a sequence.
 
 ## Helpful Reading Material
 
