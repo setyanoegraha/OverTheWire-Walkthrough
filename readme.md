@@ -6,7 +6,6 @@ This repository is my personal documentation of **OverTheWire Wargames** as I pr
 
 - [Introduction](#introduction)
 - [Challenges & Progress](#challenges--progress)
-- [References](#references)
 
 ## Introduction
 
@@ -34,20 +33,3 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 | **Manpage**   | ❌ Not Started   |                                |
 
 ✅ = Completed  | 🚧 = In Progress | ❌ = Not Started  
-
-## References
-- [OpenSSH Server Documentation](https://ubuntu.com/server/docs/openssh-server) <br>
-- [Linux Handling Special Filenames](https://medium.com/@.Qubit/how-to-create-open-find-remove-dashed-filename-in-linux-27ee297d1740) <br>
-- [Filename Spaces Linux](https://linuxhandbook.com/filename-spaces-linux/) <br>
-- [Find Command in Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
-- [Linux Error Redirection](https://www.geeksforgeeks.org/linux-error-redirection/)<br>
-- [Grep Command in Linux](https://www.geeksforgeeks.org/grep-command-in-linux-with-examples/)<br>
-- [Basix Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/#25-wc-command-in-linux)<br>
-- [Piping](https://ryanstutorials.net/linuxtutorial/piping.php)<br>
-- [Sort Command Linux](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)<br>
-- [Uniq Command in Linux](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples-2/)<br>
-- [Linux Commands](https://www.geeksforgeeks.org/linux-commands/)
-- [Strings Command in Linux](https://linuxopsys.com/strings-command-in-linux)
-- [Grep Command in Linux](https://staging2.linuxopsys.com/grep-command-in-linux)
-- [base64 encode & decode](https://www.baeldung.com/linux/cli-base64-encode-decode)
-- [base64 linux command](https://ioflood.com/blog/base64-linux-command/)
