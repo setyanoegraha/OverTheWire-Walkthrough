@@ -16,22 +16,26 @@ This repository serves as my personal **learning journal** while working through
 
 To start playing, visit [OverTheWire](https://overthewire.org/wargames/) and follow their connection instructions.  
 
+⚠️ **Password Redaction Notice**  
+Passwords are **redacted**! You’ll need to solve the challenges yourself—trust me, it’s way more fun when you learn and enjoy the process! 🎉
+
 ## Challenges & Progress
 
-|    Wargame    |      Progress    | Walkthrough Link  |
-|---------------|------------------|-----------------  |
-| **Bandit**    | ✅ In Progress   | [Bandit Walkthrough](bandit/) |
-| **Leviathan** | ❌ Not Started  |  |
-| **Narnia**    | ❌ Not Started  |  |
-| **Behemoth**  | ❌ Not Started  |  |
-| **Utumno**    | ❌ Not Started  |  |
-| **Maze**      | ❌ Not Started  |  |
-| **Krypton**   | ❌ Not Started  |  |
-| **Natas**     | ❌ Not Started  |  |
-| **Vortex**    | ❌ Not Started  |  |
-| **Manpage**   | ❌ Not Started  |  |
+|    Wargame    |      Progress    | Walkthrough Link               |
+|---------------|------------------|--------------------------------|
+| **Bandit**    | 🚧 In Progress   | [Bandit Walkthrough](bandit/)  |
+| **Leviathan** | ❌ Not Started   |                                |
+| **Narnia**    | ❌ Not Started   |                                |
+| **Behemoth**  | ❌ Not Started   |                                |
+| **Utumno**    | ❌ Not Started   |                                |
+| **Maze**      | ❌ Not Started   |                                | 
+| **Krypton**   | ❌ Not Started   |                                |
+| **Natas**     | ❌ Not Started   |                                |
+| **Vortex**    | ❌ Not Started   |                                |
+| **Manpage**   | ❌ Not Started   |                                |
 
 ✅ = Completed  
+🚧 = In Progress
 ❌ = Not Started  
 
 ## Useful Commands & Tips
@@ -41,3 +45,7 @@ As I progress, I’ll list important commands and techniques I find useful.
 ### SSH Basics
 ```bash
 ssh username@hostname -p port
+```
+
+## References
+
