@@ -45,3 +45,7 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 - [Piping in Linux](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)<br>
 - [Basix Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/#25-wc-command-in-linux)<br>
 - [Piping](https://ryanstutorials.net/linuxtutorial/piping.php)<br>
+- [Piping](https://ryanstutorials.net/linuxtutorial/piping.php)<br>
+- [Basic Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/)<br>
+- [Sort Command Linux](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)<br>
+- [Uniq Command in Linux](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples-2/)<br>
