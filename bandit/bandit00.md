@@ -2,7 +2,7 @@
 
 https://overthewire.org/wargames/bandit/bandit0.html
 
-# Level description
+## Level description
 
 This was the starting point of the bandit wargame. The goal seemed straightforward: log into a remote server using SSH. The host was [`bandit.labs.overthewire.org`](http://bandit.labs.overthewire.org), port `2220`. They even gave me the username and password—both were `bandit0`. Sounds simple enough, right? Let’s dive in.
 
