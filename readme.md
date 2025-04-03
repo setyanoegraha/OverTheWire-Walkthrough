@@ -38,4 +38,5 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 ## References
 - [OpenSSH Server Documentation](https://ubuntu.com/server/docs/openssh-server) <br>
 - [Linux Handling Special Filenames](https://medium.com/@.Qubit/how-to-create-open-find-remove-dashed-filename-in-linux-27ee297d1740) <br>
-- [Filename Spaces Linux](https://linuxhandbook.com/filename-spaces-linux/)
+- [Filename Spaces Linux](https://linuxhandbook.com/filename-spaces-linux/) <br>
+- [Find Command in Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
