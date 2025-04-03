@@ -92,11 +92,11 @@ I started by logging into the Bandit15 level using SSH with the password from th
         depth=0 CN = SnakeOil
         verify return:1
         ---
-        [REDACTED]
+        [Private Key Content]
         ---
         read R BLOCK
         ---
-        [REDACTED]
+        [Private Key Content]
         ---
         read R BLOCK
         ```
