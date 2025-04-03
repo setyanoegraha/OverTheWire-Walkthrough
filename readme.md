@@ -20,7 +20,7 @@ To start playing, visit [OverTheWire](https://overthewire.org/wargames/) and fol
 
 |    Wargame    |      Progress    | Walkthrough Link  |
 |---------------|------------------|-----------------  |
-| **Bandit**    | ✅ In Progress   | [Bandit Walkthrough](bandit/README.md) |
+| **Bandit**    | ✅ In Progress   | [Bandit Walkthrough](bandit/) |
 | **Leviathan** | ❌ Not Started  |  |
 | **Narnia**    | ❌ Not Started  |  |
 | **Behemoth**  | ❌ Not Started  |  |
