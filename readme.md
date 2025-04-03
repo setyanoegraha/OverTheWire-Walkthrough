@@ -1,4 +1,4 @@
-# OverTheWire Walkthrough - My Personal Notes
+# OverTheWire Walkthrough 
 
 This repository is my personal documentation of **OverTheWire Wargames** as I progress through each challenge. It contains solutions, notes, and lessons learned from solving each level.
 
@@ -6,7 +6,6 @@ This repository is my personal documentation of **OverTheWire Wargames** as I pr
 
 - [Introduction](#introduction)
 - [Challenges & Progress](#challenges--progress)
-- [Useful Commands & Tips](#useful-commands--tips)
 - [References](#references)
 
 ## Introduction
@@ -37,15 +36,6 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 ✅ = Completed  
 🚧 = In Progress
 ❌ = Not Started  
-
-## Useful Commands & Tips
-
-As I progress, I’ll list important commands and techniques I find useful.
-
-### SSH Basics
-```bash
-ssh username@hostname -p port
-```
 
 ## References
 
