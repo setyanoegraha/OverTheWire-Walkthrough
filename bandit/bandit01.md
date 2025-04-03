@@ -1,6 +1,6 @@
 # bandit00 → 01: Just list
 
-[Level 0 -> Level 1](https://overthewire.org/wargames/bandit/bandit1.html)
+[Challenge](https://overthewire.org/wargames/bandit/bandit1.html)
 
 ## Level Description
 
