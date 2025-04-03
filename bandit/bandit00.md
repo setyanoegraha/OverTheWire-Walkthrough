@@ -1,6 +1,6 @@
 # bandit00: Log Into Remote Server
 
-[Bandit 0](https://overthewire.org/wargames/bandit/bandit0.html)
+[Level 0](https://overthewire.org/wargames/bandit/bandit0.html)
 
 ## Level description
 
