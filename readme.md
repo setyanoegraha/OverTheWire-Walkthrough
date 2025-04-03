@@ -49,3 +49,9 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 - [Basic Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/)<br>
 - [Sort Command Linux](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)<br>
 - [Uniq Command in Linux](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples-2/)<br>
+- [Linux Commands](https://www.geeksforgeeks.org/linux-commands/)
+- [Basic Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/)
+- [Strings Command in Linux](https://linuxopsys.com/strings-command-in-linux)
+- [Grep Command in Linux](https://staging2.linuxopsys.com/grep-command-in-linux)
+- [base64 encode & decode](https://www.baeldung.com/linux/cli-base64-encode-decode)
+- [base64 linux command](https://ioflood.com/blog/base64-linux-command/)
