@@ -18,13 +18,13 @@ I fired up my terminal, typed the command:
 $ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
-When prompted for the password, I entered `bandit0`.
+When prompted for the password, I entered `[REDACTED]`.
 
 Boom! I was in. I saw the welcome message from Bandit’s server, which told me I had successfully logged in. It felt like the first small victory in a long adventure.
 
 ## Password for the Next Level
 
-`bandit0`
+`[REDACTED]`
 
 ## What I learned
 
