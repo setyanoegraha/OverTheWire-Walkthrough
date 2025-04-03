@@ -40,3 +40,4 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 - [Linux Handling Special Filenames](https://medium.com/@.Qubit/how-to-create-open-find-remove-dashed-filename-in-linux-27ee297d1740) <br>
 - [Filename Spaces Linux](https://linuxhandbook.com/filename-spaces-linux/) <br>
 - [Find Command in Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
+- [Linux Error Redirection](https://www.geeksforgeeks.org/linux-error-redirection/)<br>
