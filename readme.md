@@ -33,7 +33,7 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 | **Vortex**    | ❌ Not Started   |                                |
 | **Manpage**   | ❌ Not Started   |                                |
 
-✅ = Completed  🚧 = In Progress ❌ = Not Started  
+✅ = Completed  | 🚧 = In Progress | ❌ = Not Started  
 
 ## References
 [OpenSSH Server Documentation](https://ubuntu.com/server/docs/openssh-server)
