@@ -41,3 +41,7 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 - [Filename Spaces Linux](https://linuxhandbook.com/filename-spaces-linux/) <br>
 - [Find Command in Linux](https://www.geeksforgeeks.org/find-command-in-linux-with-examples/)
 - [Linux Error Redirection](https://www.geeksforgeeks.org/linux-error-redirection/)<br>
+- [Grep Command in Linux](https://www.geeksforgeeks.org/grep-command-in-linux-with-examples/)<br>
+- [Piping in Linux](https://www.geeksforgeeks.org/piping-in-unix-or-linux/)<br>
+- [Basix Linux Commands](https://www.geeksforgeeks.org/basic-linux-commands/#25-wc-command-in-linux)<br>
+- [Piping](https://ryanstutorials.net/linuxtutorial/piping.php)<br>
