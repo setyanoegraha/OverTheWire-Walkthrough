@@ -32,4 +32,6 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 | **Vortex**    | ❌ Not Started   |                                |
 | **Manpage**   | ❌ Not Started   |                                |
 
-✅ = Completed  | 🚧 = In Progress | ❌ = Not Started  
+✅ = Completed  <br>
+🚧 = In Progress <br>
+❌ = Not Started  <br>
