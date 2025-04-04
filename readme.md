@@ -21,16 +21,15 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 
 |    Wargame    |      Progress    | Walkthrough Link               |
 |---------------|------------------|--------------------------------|
-| **Bandit**    | 🚧 In Progress   | [Bandit Walkthrough](bandit/)  |
-| **Leviathan** | ❌ Not Started   |                                |
-| **Narnia**    | ❌ Not Started   |                                |
-| **Behemoth**  | ❌ Not Started   |                                |
-| **Utumno**    | ❌ Not Started   |                                |
-| **Maze**      | ❌ Not Started   |                                | 
-| **Krypton**   | ❌ Not Started   |                                |
-| **Natas**     | ❌ Not Started   |                                |
-| **Vortex**    | ❌ Not Started   |                                |
-| **Manpage**   | ❌ Not Started   |                                |
+| **Bandit**    |        🚧        | [Bandit Walkthrough](bandit/)  |
+| **Leviathan** |        ❌        |                                |
+| **Narnia**    |        ❌        |                                |
+| **Behemoth**  |        ❌        |                                |
+| **Utumno**    |        ❌        |                                |
+| **Maze**      |        ❌        |                                | 
+| **Krypton**   |        ❌        |                                |
+| **Natas**     |        ❌        |                                |
+| **Vortex**    |        ❌        |                                |
 
 ✅ = Completed  <br>
 🚧 = In Progress <br>
