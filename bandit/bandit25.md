@@ -59,7 +59,7 @@ Wrong! Please enter the correct current password and pincode. Try again.
 
 Perfect--now let's automate it!
 
-**Step 3: Make a temporary working directory"
+**Step 3: Make a temporary working directory"**
 
 ```bash
 mktemp -d 
@@ -81,7 +81,7 @@ cd /tmp/tmp.wuaaUvfCrE
 - `mktemp -d` creates a random-named directory inside `/tmp`, which is both **writable** and **isolated**.
 - This prevents other users from guessing your file names or snooping. 
 
-**Step 4: Generate all possible input combinations"
+**Step 4: Generate all possible input combinations"**
 
 I'll generate 10,000 lines formatted like:
 
@@ -130,7 +130,7 @@ Results file created:
 -rw-rw-r-- 1 bandit24 bandit24   678908 Apr  5 01:05 results.txt
 ```
 
-**Step 6: Find the unique output (correct response)
+**Step 6: Find the unique output (correct response)**
 
 ```bash
 sort results.txt | uniq -u
