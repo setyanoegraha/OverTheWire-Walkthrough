@@ -31,7 +31,7 @@ ssh bandit24@bandit.labs.overthewire.org -p 2220
 
 Once inside, there wasn't much to explore in home directory. 
 
-**Step 2: Test the connection manually"
+**Step 2: Test the connection manually**
 
 use `nc` netcat to talk to the daemon on port `30002`.
 
@@ -59,7 +59,7 @@ Wrong! Please enter the correct current password and pincode. Try again.
 
 Perfect--now let's automate it!
 
-**Step 3: Make a temporary working directory"**
+**Step 3: Make a temporary working directory**
 
 ```bash
 mktemp -d 
@@ -81,7 +81,7 @@ cd /tmp/tmp.wuaaUvfCrE
 - `mktemp -d` creates a random-named directory inside `/tmp`, which is both **writable** and **isolated**.
 - This prevents other users from guessing your file names or snooping. 
 
-**Step 4: Generate all possible input combinations"**
+**Step 4: Generate all possible input combinations**
 
 I'll generate 10,000 lines formatted like:
 
