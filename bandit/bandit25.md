@@ -1,4 +1,4 @@
-# Bandit24 -> 25: The Daemon's Lockbox
+# Bandit24 → 25: The Daemon's Lockbox
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit25.html)
 
