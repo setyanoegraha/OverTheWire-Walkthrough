@@ -157,6 +157,15 @@ Voila! A golden ticket!
 
 ## What I Learned
 
+- **Brute-Forcing with Scripting**: Created a wordlist with 4-digit pins and appended my password to each and automated brute-forcing using `printf` and bash expansion.
+- **Comand Line Mastery**: Created and worked inside a secure temp directory using `mktemp -d`.
+- **Command Line Mastery**: Used text processing tools to isolate the correct output using `sort results.txt | uniq -u`.
 
+## Helpful Reading Material
+
+- **The Linux Command Line** by William Shotts
+- **Linux Basics For Hacker** by OccupyTheWeb
+- [Brute Force with Bash Expansion](https://gist.github.com/vinzdef/7bdf4249e67a2ff7ed3f)
+- [File Manipulation](https://www.futurelearn.com/info/courses/linux-for-bioinformatics/0/steps/201955)
 
 
