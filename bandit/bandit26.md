@@ -1,4 +1,4 @@
-# Bandit25 → 26: Escaping the Pager Trap: Breakout Through Vim
+# Bandit25 → 26: Escaping the Pager Trap, Breakout Through Vim
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit26.html)
 
