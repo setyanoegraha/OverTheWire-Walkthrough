@@ -42,7 +42,7 @@ Output:
 
 The `s` in `rws` shows that this is a SUID binary — it runs with the **permissions of the file owner**, which is `bandit27`. That's mean if **you run it**, it runs **as if you're bandit27!**.
 
-** Step 3: Run the binary file to print the password**
+**Step 3: Run the binary file to print the password**
 
 ```bash
 ./bandit27-do cat /etc/bandit_pass/bandit27
