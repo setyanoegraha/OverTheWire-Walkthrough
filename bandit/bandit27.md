@@ -1,4 +1,4 @@
-# Bandit26 → 27: 
+# Bandit26 → 27: Escalating Privileges with SUID Binaries 
 
 [Challenge](https://overthewire.org/wargames/bandit/bandit27.html)
 
