@@ -22,7 +22,7 @@ Passwords are **redacted**! You’ll need to solve the challenges yourself—tru
 |    Wargame    |      Progress    | Walkthrough Link               |
 |---------------|------------------|--------------------------------|
 | [**Bandit**](https://overthewire.org/wargames/bandit/)    |        ✅        | [Bandit Walkthrough](bandit/)  |
-| **Leviathan** |        ❌        |                                |
+| [**Leviathan**](https://overthewire.org/wargames/leviathan/) |        🚧        | [Leviathan Walkthrough](leviathan/)                               |
 | **Narnia**    |        ❌        |                                |
 | **Behemoth**  |        ❌        |                                |
 | **Utumno**    |        ❌        |                                |
