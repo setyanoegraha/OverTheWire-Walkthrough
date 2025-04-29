@@ -1,6 +1,6 @@
 # Leviathan0 -> 1: The Hidden Bookmark
 
-level0: `leviathan0@leviathan.labs.overthewire.org -p 2223`
+Challenge: `leviathan0@leviathan.labs.overthewire.org -p 2223`
 
 ---
 
