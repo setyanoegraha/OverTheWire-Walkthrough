@@ -2,13 +2,9 @@
 
 Challenge: `leviathan0@leviathan.labs.overthewire.org -p 2223`
 
----
-
 ## Level Description
 
 This is the starting point of the leviathan wargame. The task is to find the password for the level, `leviathan2`, by exploring the environment on this level.
-
----
 
 ## The Process
 
@@ -50,13 +46,8 @@ Voila!, that returned the golden ticket!:
 
 Now I could log in as `leviathan1` using this password.
 
----
-
-## What I Learned
-- Always check for hidden files and directories (`ll -a`).
-- Use `grep` to filter large files for spesific keywords.
-- Passwords can be hidden in plain text, even in seemingly harmless files like `.html`.
-
+## Conclusion
+In this level, I successfully found the password for **leviathan1** by carefully exploring the home directory and identifying hidden files. The `.backup` directory contained a bookmarks HTML file that held a clue in plain sight. By using simple Linux Commands like `ls`, `cd`, `cat`, and `grep`. I was able to extract the password without requiring any advanced exploitation techniques. 
 
 ## Helpful Reading Material
 - [Hidden Files in Linux](https://www.geeksforgeeks.org/how-to-view-and-create-hidden-files-in-linux/)
