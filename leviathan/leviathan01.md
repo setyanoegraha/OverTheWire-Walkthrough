@@ -57,7 +57,7 @@ So I ran:
 echo "sex" | ./check
 ```
 
-And got a shell prompt:
+And got a shell prompt with `sh` shell:
 ```sh
 $
 ```
@@ -77,3 +77,14 @@ cat /etc/leviathan_pass/leviathan2
 
 ## Conclusion
 By analyzing the `check` binary using `strings` and `ltrace`, I discovered that is uses `strcmp` to validate the password and that the correct password was hardcoded as `"sex"`. Feeding this value into the program spawned a shell with elevated privileges, allowing me to retrieve the password for **leviathan2**.
+
+## Helpful Reading Material
+- [strcmp() - C Library Function](https://cplusplus.com/reference/cstring/strcmp/)
+- [Linux `file` command](https://www.geeksforgeeks.org/file-command-in-linux-with-examples/)
+- [`strings` Command in Linux](https://labex.io/tutorials/linux-linux-strings-command-with-practical-examples-422934)
+- [`ltrace` Command in Linux](https://labex.io/tutorials/linux-linux-ltrace-command-with-practical-examples-422784)
+- [How to Pipe Input Using `echo`](https://runcloud.io/blog/echo-command-in-linux)
+- [What is a Binary File?](https://en.wikipedia.org/wiki/Binary_file)
+- [What Does "Not Stripped" Mean?](https://community.unix.com/t/not-stripped-executable-file/230654)
+- [ELF Executables in Linux](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+- [Understanding SetUID and SetGID](https://www.geeksforgeeks.org/setuid-setgid-and-sticky-bits-in-linux-file-permissions/)
